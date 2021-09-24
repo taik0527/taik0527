@@ -1,4 +1,6 @@
-[![](https://raw.githubusercontent.com/taik0527/taik0527/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/taik0527/taik0527/main/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/taik0527/taik0527/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/taik0527/taik0527/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/taik0527/taik0527/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/taik0527/taik0527/main/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # 紹介文
 
@@ -9,7 +11,7 @@
 ## 使用したことのある技術
 ***
 - OS: Mac
-- 言語: Ruby / Javascript(ES5, ES6, jQuery) / HTML5 / CSS3(SCSS)
+- 言語: Ruby / HTML5 / CSS3(SCSS)
 - フレームワーク: Ruby on Rails(5系、6系) / bootstrap4, bootstrap material design, bulma
 - バージョン管理: Git, GitHub
 
@@ -29,6 +31,7 @@
 - rubocop, rubocop-rails(リントチェック)
 - factory_bot_rails(テストデータ作成)
 - Rspec(テスト)
+- capistrano(自動デプロイ)
 
 ## 実装したことがある主な機能
 ***
@@ -42,25 +45,46 @@
 
 ## 現在の学習状況・アピールしたい事
 ***
+毎日8時間以上勉強する習慣を作っています。
+
+実際に手を動かしながら知識を定着させていくことを意識して学習しています。
+
 
 
 ## 個人開発で作成したアプリケーション
 
 ***
 ### 1. おひさまログ
+
 母の所属している絵本読み聞かせの会「おひさま」の活動記録を管理するアプリを作成しました。
+
 ***
+
+「紙ベースで管理していると見返したり共有したりするのが大変」
+
+「会で所有している絵本をいつでも把握できるようにしたい」
+
+という母の問題を解決するために作成しました。
+
+登録フォームから簡単に活動記録と本を登録することができ、一覧画面からは過去の記録の検索ができます。
+
+非同期処理とGoogleBooksAPIを用いて簡単に絵本を登録できるように実装しました。
+
+[おひさまログ(GitHub)](https://github.com/taik0527/instagram_clone)
+
+[おひさまログ(本番環境)](https://ohisamaonagawa.com)
+
+[おひさまログ(閲覧用)](https://onagawaohisama.herokuapp.com)
 
 ***
 
 ### 2. インスタグラムクローン
 ***
 インスタグラムのクローンアプリです。
-MENTAで契約しているメンターの方のオリジナル教材で実装したらPRをあげてレビューをして頂いて理解度を確認しながら進めています。
+MENTAで契約しているメンターの方のオリジナル教材で実装したらPRをあげてレビューをして頂いて理解度を確認しながら進めました。
 
-[インスタグラムクローン(GitHub)](https://github.com/Taishikun0721/iinsta_clone)
+[インスタグラムクローン(GitHub)](https://github.com/taik0527/instagram_clone)
 
-あくまで自分で実装をして、わからないところを質問するというスタイルなので、PRでレビューに対して質問したりする事でどんどん理解が深まっていくのでコードレビューの重要さが分かりました。
-
+あくまで自分で実装をして、わからないところを質問するというスタイルなので、レビューに対して質問したりする事でどんどん理解が深まっていくのでコードレビューの重要さが分かりました。
 
 ***
