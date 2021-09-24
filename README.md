@@ -1,7 +1,4 @@
-[![](https://raw.githubusercontent.com/taik0527/taik0527/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/Taishikun0721/Taishikun0721/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
+[![](https://raw.githubusercontent.com/taik0527/taik0527/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # 紹介文
 
@@ -45,25 +42,14 @@
 
 ## 現在の学習状況・アピールしたい事
 ***
-平日は仕事終了後の3.4時間、休日は6時間ほど学習していました。
-まとまった時間が取れない事も多かったので移動時間でテーブル設計を行ったり、デザインパターンをGistに書いたりして
-とにかく小さい機能単位で学習する事を心がけました。
 
-
-また**MENTA**というメンター（教える人）とメンティー（教わる人）のマッチングサービスを利用してコミュニティ内でアウトプットを日常的に行ってきました。
 
 ## 個人開発で作成したアプリケーション
 
 ***
-### 1. deliveryfood
-テイクアウト可能な店を返してくれるLINE bot(2021年1月作成)
+### 1. おひさまログ
+母の所属している絵本読み聞かせの会「おひさま」の活動記録を管理するアプリを作成しました。
 ***
-自分もそうなのですが、コロナ禍においてリスクを抱えながら出勤や外勤をしないといけない人は必ずいます。
-その中で一番感染のリスクが高いとされている食事の場面で密になるのを避けるために、自分の現在地情報を送信すると半径500m以内のテイクアウトが可能な飲食店が表示されるLINE botを作成しました。(ぐるなびAPIで取得できる店舗に限る)
-
-■QRコード
-
-[![Image from Gyazo](https://i.gyazo.com/c12e1ecca0664fc4761ea89ea45e11a0.png)](https://gyazo.com/c12e1ecca0664fc4761ea89ea45e11a0)
 
 ***
 
