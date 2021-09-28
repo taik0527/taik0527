@@ -78,7 +78,13 @@ Railsを中心に、実際に手を動かしながら知識を定着させてい
 
 非同期処理とGoogleBooksAPIを用いて簡単に絵本を登録できるように実装しました。
 
-[おひさまログ(GitHub)](https://github.com/taik0527/instagram_clone)
+#### 注意点
+
+実際にお話し会「おひさま」で使用されているアプリケーションのため、本番環境はログインはできない仕組みになっています。
+
+閲覧用のURLから、ゲストユーザーでログインをお願いします。
+
+[おひさまログ(GitHub)](https://github.com/taik0527/ohisama_app)
 
 [おひさまログ(本番環境)](https://ohisamaonagawa.com)
 
@@ -86,7 +92,7 @@ Railsを中心に、実際に手を動かしながら知識を定着させてい
 
 ゲストユーザー
 
-email: guest@gmail.com
+email: guest@example.com
 
 password: password
 
