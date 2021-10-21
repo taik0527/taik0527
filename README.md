@@ -32,7 +32,7 @@
 - factory_bot_rails(テストデータ作成)
 - Rspec(テスト)
 - capistrano(自動デプロイ)
-
+ 
 ## 実装したことがある主な機能
 ***
 - 基本的なCRUD機能
