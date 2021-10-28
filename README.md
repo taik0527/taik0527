@@ -84,8 +84,6 @@
 
 [おひさまログ(GitHub)](https://github.com/taik0527/ohisama_app)
 
-[おひさまログ(本番環境)](https://ohisamaonagawa.com)
-
 [おひさまログ(閲覧用)](https://onagawaohisama.herokuapp.com)
 
 ゲストユーザー
