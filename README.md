@@ -1,14 +1,10 @@
 # 紹介文
 
-## アカウント
-***
-- [GitHub](https://github.com/taik0527)
-
 ## 使用したことのある技術
 ***
 - OS: Mac
-- 言語: Ruby / HTML5 / CSS3(SCSS)
-- フレームワーク: Ruby on Rails(5系、6系) / bootstrap4, bootstrap material design, bulma
+- 言語: Ruby / HTML5 / CSS3(SCSS) / JavaScript
+- フレームワーク: Ruby on Rails(5系、6系) / Vue.js / bootstrap4 / bulma
 - バージョン管理: Git, GitHub
 
 ## Rails内で使用した経験があるgem
